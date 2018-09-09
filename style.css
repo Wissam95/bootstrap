@@ -1,0 +1,141 @@
+body{
+    background-image: url();
+
+}
+header{
+    background-color: #e31e24;
+    width: 100%;
+    height: 400px;
+}
+
+#main{
+    padding: ;
+    margin-right: 10px auto
+}
+#img{
+    padding: 10px;
+    height: 200px;
+    width: 400px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+
+.ppp {
+    font-size:100px;
+    margin-top:40px;
+    color:white;
+    font-family: 'Kaushan Script', cursive;
+    text-align: center;
+}
+
+.card-deck h5{
+    text-align: center
+}
+
+#a{
+    font-size: 20px;
+}
+
+#headphons{
+    width: 100%;
+    height: 250px;
+
+    
+}
+#cardd{
+    margin-right: 0px;
+    padding-top: 20px;
+    background-color: #e31e24
+    
+}
+
+
+.card{
+    border:0px;
+    background-color: #e31e24
+    
+}
+
+#pp{
+    font-size: 20px;
+    font-family: 'Noto Serif KR', sans-serif;
+}
+.cards{
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+#wisssam{
+    padding-bottom: 10px;
+
+}
+#border{
+    height: 300px;
+    border:none
+}
+
+#border h3{
+    text-align: center;
+    margin-top: 20px
+}
+
+#links {
+    color: #e31e24;
+    background-color: transparent;
+    font-size: 20px
+    
+}
+#headphons-type{
+    text-align: center;
+
+}
+
+
+#pic{
+    width: 100px;
+    margin-left: 130px
+
+}
+#pic-2{
+    width: 100px;
+    margin-left: 140px;
+}
+#pic-5{
+    width: 100px;
+    margin-left: 140px
+
+}
+#main-section{
+    margin-top: 25px
+}
+
+.slidss{
+    margin-bottom: 25px;
+}
+.card-title{
+    color: white
+}
+
+#footer-top{
+    margin: 0px;
+    padding-top: 25px
+}
+#footer-text h3{
+    text-align: center;
+    margin-top: 15px
+}
+
+#footer-img-1{
+    width: 100px;
+    margin-left: 146px
+}
+
+#footer-img-2{
+    width: 100px;
+    margin-left: 135px;
+}
+
+#footer-img-3{
+    width: 100px;
+    margin-left: 140px 
+}
